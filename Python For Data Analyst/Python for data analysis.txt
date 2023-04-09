@@ -1,0 +1,195 @@
+        # variable
+# print a number that store in a variable
+# print a name that store in a variable use single quotation
+# print a name that store in a variable use double quotation
+# print a text that store in a variable
+
+        # input
+# find out first character from a text that comes from user
+# find out the summation of two number that comes from user
+
+        # Number
+# find out addition, subtraction, multiplication, division, remainder,
+# integer divided result, power from user inputs
+
+        # increament, decreament
+# takes a number form user and add 5 to this number, minus 2 to this
+# number, multiply 10 to this number, divide by 3 to this number
+
+# check two numbers which comes from users that are equal, not equal, 
+# greater than, less than, greater than equal, less than equal
+
+# use and, or, not to check condition
+
+	# variable
+# print a text using single quotation
+# print a text using double quotation
+# print a text using let's text
+# print a text using "Bangladesh" text
+# use your name, and age as variable in print text
+
+# print a string text like your full name
+# print a fourth character of your full name
+# print a third to sixth character of your full name
+# print a third to sixth character of your full name
+# print a fifth to last character of your full name
+# print a first to fifth character of your full name
+# print a last character of your full name
+# print a fourth last character of your full name
+# print reverse your full name
+
+	# data types
+# print a number and type of this number
+# print a decimal number and type of this number
+# print a text and type of this text
+# print a complex number and type of this complex number
+# print a range and type of this range
+# print a list and type of this list
+# print a tuple and type of this tuple
+# print a set and type of this set
+# print a dictionary and type of this dictionary
+
+	# type conversion
+# print a number and type of this number 
+# convert this number into float
+# print a float number and type of this float number
+# convert this into integer number
+# print a number and type of this number
+# convert this into string number
+# take a number from user
+# convert into float number
+# convert into string number
+# convert into complex number
+
+	# list
+# create a list of your friends and print the list and list type
+# print fourth to sixth member of the list
+# print fifth to last member of the list
+# print first to fifth member of the list
+# print last member of the list
+# print fourth last member of the list
+# print reverse list
+
+	# tuple
+# create a friends list and print the list
+# check 'tuhin' is on the list (using in)
+# check 'Tuhin' is on the list (using in)
+# delete the last item of the list
+# delete the third last item of the list
+# insert 'akash' in last place of the list
+# insert 'mona' in second place of the list
+# count total member in this list
+# print the list in ascending order
+# find the position of 'shanto' in the list
+# change third position to 'asad' in the list
+# create a number list then add friends and number list put it on result variable
+
+	# set
+# create a set then print it and it's type
+# delete the first value of this set
+# add '9' in the last of this set
+# find the length of this set
+# remove 'tuhin' of this list
+
+	# dictionary
+# create a student details dictionary then print it and it's type
+# print the items of students
+# print the keys of students
+# print the values of students
+# find information from student details
+# find information from list from student details
+# find information from list then another list from student details
+# find information from student details using get function
+# update information from students and check
+
+# print positive, negative or zero
+# find the number is odd or even
+# find your grade based on your marks
+# find your food item from chinese, italian, bangladesh food
+
+	# while
+# print 'Tuhin' 10 times
+# print 1-10 
+# print 10-1
+# print ('Tuhin' with CSE 5 times) total 5 time  
+
+	# for
+# print 0 to 9
+# print 0 to 10
+# print 0 to 10 Even Number
+# print 0 to 10 Odd Number
+# print 0 to 10 Even Number (use if)
+# print 0 to 10 Odd Number (use if)
+
+# print all character from a text (use for loop)
+# print all item from a list (use for loop)
+# print all number which divided by 5, numbers are 1 - 50
+# find your name from your friends list if not found then print not found
+
+# print 1 to 10 if number is 5 then break condition then print
+# print 1 to 10 if number is 5 then break pritn then condition
+
+# print 1 to 10 skip 5
+# print 1 to 50 skip which is divided by 5
+
+# print 1 to 10 skip odd number using pass
+
+# check the number is prime or not
+
+# count total even, odd number from a list using function
+
+# find the global variable and check
+
+# find factorial using loop in function
+
+# find factorial number using recursive function
+
+# swap two variable (four different way)
+
+# find fibonacci number
+
+	# math module
+# print all math module name
+# print the type name of math
+# what is square root of 5
+# what is square root of 16
+# print the pi value
+# print the e value
+# what is 2 power of 3
+# what is ceil value of 5.1
+# what is ceil value of 5.9
+# what is floor value of 5.1
+# what is floor value of 5.9
+# what is absolute value fo -5
+# what is the factorial value of 5
+
+	# calendar module
+# print all module form calendar
+# print the type name of calendar
+# print the december 2020 calendar
+# check 2008, 2010, 2014, 2020 is leap year
+
+	# area module
+# find the tri-angle area from area module
+# find the square area from area module
+
+	# calculation module
+# find summation of two numbers using a module where function define
+# find subtraction of two numbers using a module where function define
+# find multiplication of two numbers using a module where function define
+# find division of two numbers using a module where function define
+
+	# error handle
+# find different type of error like name error, value error, 
+# zero division error and other type of error for divide tow number
+
+	# class object
+# create a class called test and define a hello function 
+# then call the class and function
+
+# create a person class and print name, age, city in a function use init
+
+# create a computer class and print name, cpu, ram in a function use init
+
+# print a class name people where name and occupation pass into the argument
+# print their occupation and name in a functon, and also say hello in another function
